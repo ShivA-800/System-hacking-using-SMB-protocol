@@ -35,6 +35,9 @@ Detailed documentation is included in the `docs` directory, covering:
 1. Set up the environment as described in the `System Requirements` section of the documentation.
 2. Follow the step-by-step instructions in the `Methodology` section to replicate the exploitations demonstrated in the project.
 
+## License
+
+This project is licensed under the MIT License - see the `LICENSE` file for details.
 ## Contact
 
 For any questions or further information, please contact Shiva Kumar Radharapu at 6688shivaradharapu039@gmail.com
